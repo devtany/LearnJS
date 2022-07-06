@@ -11,7 +11,6 @@ console.log(2+2*2 != 9);
 const check = false,
     close = false;
 console.log(!check || !close);
-
-
+cvbgdfgdfd
 
 
